@@ -1,0 +1,38 @@
+Shopping Hard or Hardly Shopping Revealing Consumer Segments Using Clickstream Data
+
+
+IEEE Transactions on Machine Learning and Engineering Management,Volume:70,Issue:4,Issue Date:April.2023
+
+
+Apparel retailing, big data, clickstream data,consumer segmentation, online purchase.
+
+Shopping_Hard_or_Hardly_Shopping
+
+
+shopping_hard_or_hardly_shopping
+
+
+predict_shopping_type
+
+
+
+
+product_ID	
+product_type	
+product_name	
+psize	
+colour		
+invoice_no	
+customer_id	
+gender	
+age	
+quantity	
+price	
+payment_method	
+invoice_date	
+shopping_mall	
+clickstream_data
+Prediction	
+
+
+
